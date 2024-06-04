@@ -1,0 +1,1 @@
+ALTER TABLE users ADD deposit_amount decimal(10,2);
